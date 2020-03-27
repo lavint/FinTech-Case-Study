@@ -1,1 +1,1 @@
-# FinTechCaseStudy
+# Fundrise
