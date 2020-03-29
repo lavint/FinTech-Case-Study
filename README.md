@@ -53,9 +53,9 @@ What separates Fundrise from many other platforms, however, is that you do not h
 |**REITs Fees**        | 1%                      |1%-1.5%                  |0%             |3%           |0.25%-1%     |
 |**Private REIT**      |Yes                      |Yes                      |No             |No           |No           |
 |**Platform Purpose**  |Commercial<br>Residential|Commercial<br>Residential|Commercial     |Commercial   |Residential  |
-|**Payout**            |Quarterly                  |Monthly<br>Quarterly   |Depends        |Twice Monthly|Twice Monthly|<br><br>
+|**Payout**            |Quarterly                  |Monthly<br>Quarterly   |Depends        |Twice Monthly|Twice Monthly|
+<br><br>
 
-    
 
 ## *Results*
 
