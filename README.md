@@ -54,6 +54,7 @@ What separates Fundrise from many other platforms, however, is that you do not h
 |**Private REIT**      |Yes                      |Yes                      |No             |No           |No           |
 |**Platform Purpose**  |Commercial<br>Residential|Commercial<br>Residential|Commercial     |Commercial   |Residential  |
 |**Payout**            |Quarterly                  |Monthly<br>Quarterly   |Depends        |Twice Monthly|Twice Monthly|
+
 <br><br>
 
 
