@@ -73,13 +73,13 @@ The cumulative total return has been increasing every year while the average ann
 
 * [Real Estate Crowdfunding Trends For 2020 And Beyond, Financial Samurai](https://www.financialsamurai.com/real-estate-crowdfunding-trends-for-2020-and-beyond/)
 
-* [Fundrise Competitors 1, Investor Junkie](https://investorjunkie.com/real-estate/fundrise-vs-realty-mogul-vs-crowdstreet/)
+* [Fundrise vs. Realty Mogul vs. Crowdstreet, Investor Junkie](https://investorjunkie.com/real-estate/fundrise-vs-realty-mogul-vs-crowdstreet/)
 
-* [Fundrise Competitors 2, Investor Junkie](https://investorjunkie.com/compare/rich-uncles-vs-fundrise-vs-peerstreet/)
+* [Rich Uncles vs. Fundrise vs. PeerStreet Comparison, Investor Junkie](https://investorjunkie.com/compare/rich-uncles-vs-fundrise-vs-peerstreet/)
 
 * [Fundrise Review, Listen Money Matters](https://www.listenmoneymatters.com/fundrise-review/)
 
-* [Average Annual Return, Investopedia](https://www.investopedia.com/terms/a/aar.asp)   
+* [Average Annual Return (AAR), Investopedia](https://www.investopedia.com/terms/a/aar.asp)   
    
    
 -----
