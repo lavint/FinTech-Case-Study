@@ -15,7 +15,7 @@
 ---
 ## Contents
 1. [Overview](#Overview)
-1. [Business Activities](#Business&nbsp;Activities)
+1. [Business Activities](#Business-Activities)
 1. [Landscape](#Landscape)
 1. [Results](#Results)
 1. [Resources](#Resources)
@@ -28,7 +28,7 @@
 
 Fundrise is the first investment platform to create a simple, low-cost, and efficient way for anyone to crowdfund investment into the real estate market. It breaks through the traditional real estate investing approach and uses technology to redefine how people invest in real estate. It continues to shape the investment industry, creating a new alternative to investing in stocks and bonds. By combining technology with new federal regulations, it has opened up the once-unattainable world of direct private investments to everyone in the US, regardless of net worth. Today, there are more than 500,000 members of Fundrise, and they have invested in nearly $2 billion worth of real estate across the country.   
 
-
+<br>
 ## *Business Activities*
 
 ![The-Fundrise-Way](images/Pros1.png)
@@ -37,7 +37,7 @@ With its technological innovations and regulation changes, Fundrise democratize 
 
 By cutting out unnecessary overheads in the investment chain and adopting new approaches in real estate investing using online/mobile platforms, it provides better return for investors and reveals new options for potential investors. While most other platforms require people to be accredited investors - meaning they have to meet certain minimum income and/or wealth requirements - Fundrise is open to non-accredited investors, allowing people of nearly any financial situation to invest in private real estate deals. It also has some of the lowest minimums, with a plan that lets people invest as little as $500. While individual non-accredited investors may have a lower degree of liquidity compared to their accredited counterparts, they greatly outnumber accredited investors so there’s a vast swath of opportunity that online marketplaces are positioned to tap into.
 
-
+<br>
 ## *Landscape*
 
 In the past 10 years, crowdfunding has become a popular way to fund startups and this type of platform, where many small contributors aggregate up to a meaningful investment, has extended to the real estate market. Fundrise is one of the top 5 real estate crowdfunding companies using technologies to reduce costs for investors and expand its customer base.
@@ -58,14 +58,14 @@ What separates Fundrise from many other platforms, however, is that you do not h
 |**Payout**            |Quarterly                  |Monthly<br>Quarterly   |Depends        |Twice Monthly|Twice Monthly|
 
     
-
+<br>
 ## *Results*
 
 ![Performance](images/Result1.png)
 
 The cumulative total return has been increasing every year while the average annualized return has fluctuated up and down in a 3% range. Although the average annualized return is a helpful guide for measuring a fund's long term performance, investors should also look at a fund's yearly performance to fully appreciate the consistency of its annual total returns.   
 
-
+<br>
 ## *Resources*
 
 * [About Us, Fundrise](https://fundrise.com/about/)
